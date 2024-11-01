@@ -1,14 +1,16 @@
 package com.example.tourist_app.model;
 
-import org.springframework.data.annotation.Id;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
 import lombok.Data;
-
-
-import javax.persistence.*;
 
 @Entity
 @Table(name = "users")
-@Data
+@Data // Lombok annotation to generate getters, setters, toString, equals, hashCode
 public class User {
 
     @Id
@@ -23,5 +25,4 @@ public class User {
 
     private String role; // For roles like "USER", "ADMIN"
 
-    // Getters and setters
 }

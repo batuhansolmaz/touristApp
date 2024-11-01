@@ -1,0 +1,7 @@
+/Users/batuhansolmaz/touristApp/backend/tourist-app/src/main/java/com/example/tourist_app/model/BaseEntity.java
+/Users/batuhansolmaz/touristApp/backend/tourist-app/src/main/java/com/example/tourist_app/repository/UserRepository.java
+/Users/batuhansolmaz/touristApp/backend/tourist-app/src/main/java/com/example/tourist_app/model/User.java
+/Users/batuhansolmaz/touristApp/backend/tourist-app/src/main/java/com/example/tourist_app/controller/AuthController.java
+/Users/batuhansolmaz/touristApp/backend/tourist-app/src/main/java/com/example/tourist_app/TouristAppApplication.java
+/Users/batuhansolmaz/touristApp/backend/tourist-app/src/main/java/com/example/tourist_app/security/SecurityConfig.java
+/Users/batuhansolmaz/touristApp/backend/tourist-app/src/main/java/com/example/tourist_app/service/UserService.java

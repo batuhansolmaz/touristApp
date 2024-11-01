@@ -1,4 +1,4 @@
-package com.example.tourist_app.config;
+package com.example.tourist_app.security;
 
 
 import org.springframework.context.annotation.Bean;
